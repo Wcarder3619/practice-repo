@@ -1,27 +1,27 @@
-## FirstName LastName
+## Wesley Carder
 
-### Term Year
+### 1
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Analytical Geometry and Calculus 1
 
-- Course 2
+- Introduction to Data Science
 
-- Course 3
+- Introduction to Computation and Programing
 
-- Course 4
+- Python for Data Analytics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Cars
 
-- Thing 2
+- Computers
 
-- Thing 3 <<as shown on (https://www.floridapoly.edu)>>
+- Sharks
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/08/31
